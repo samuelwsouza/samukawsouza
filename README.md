@@ -4,10 +4,10 @@
 **samukawsouza/samukawsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2>Me chamo Samuel e estou a caminho do meu objetivo de me tornar um Desenvolvedor Full-Stack</h2> 
+<h2>I'm Samuel, a future FullStack Developer always improving my skills.</h2> 
   
-<p>Tive meu primeiro contato com a programação aos meus 16 anos de idade e desde então preocuro maximizar meu conhecimento para alcançar meu objetivo.
-Me joguei em cursos para estar sempre entendendo do mercado e daquilo que irá me capacitar para isso.</p>
+<p>Tive meu primeiro contato com a programação aos meus 16 anos de idade e desde então procuro maximizar meu conhecimento para alcançar meu objetivo.
+Me joguei em cursos para estar sempre entendendo o mercado e daquilo que irá me capacitar para isso.</p>
 
 <p>Iniciei miha faculdade de Análise de Desenvolvimento de Sistemas em Fev/2022 para obter e me encaixar melhor em vagas do mercado. Estou sempre buscando
 conhecimento para que possa agregar em times que irei me desenvolver e como pessoa para inovar este mundo no ramo da tecnologia.</p>
