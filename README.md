@@ -1,37 +1,34 @@
-### Hi there 👋
 
-<!--
-**samukawsouza/samukawsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Prazer, sou o Samuel Souza 👋
 
-<h2>I'm Samuel, a future FullStack Developer always improving my skills.</h2> 
-  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samukawsouza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-willians-de-souza-444a6a1b4//)
+
+![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=samukawsouza&show_icons=true&theme=dracula)
+
+## Tecnologias que uso em minha stack
+
+<div style="display: inline-block;"><br/>
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+    <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+    <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+</div>
+
+<br/>
+<br/>
+
 <p>Tive meu primeiro contato com a programação aos meus 16 anos de idade e desde então procuro maximizar meu conhecimento para alcançar meu objetivo.
 Me joguei em cursos para estar sempre entendendo o mercado e daquilo que irá me capacitar para isso.</p>
 
-<p>Iniciei miha faculdade de Análise de Desenvolvimento de Sistemas em Fev/2022 para obter e me encaixar melhor em vagas do mercado. Estou sempre buscando
+<p>Iniciei minha faculdade de Análise de Desenvolvimento de Sistemas em Fev/2022 para obter e me encaixar melhor em vagas do mercado. Estou sempre buscando
 conhecimento para que possa agregar em times que irei me desenvolver e como pessoa para inovar este mundo no ramo da tecnologia.</p>
 
-
-<h3>ME CONTATE:</h3>
+### ME CONTATE:
 <p><strong>Telefone:</strong> <a href="tel:+5511983830759">+55 11 98383-0759</a></p>
 <p><strong>E-mail:</strong> <a href="mailto:samuelwilliansdesouza15@gmail.com">samuelwilliansdesouza15@gmail.com</a></p>
-<br>
+<br/>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
-</div>
-  
-<hr/>
-  <a href = "mailto:samuelwilliansdesouza15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  
-
-  
-  
-
