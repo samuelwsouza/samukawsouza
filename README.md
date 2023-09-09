@@ -1,7 +1,6 @@
 
 ### Prazer, sou o Samuel Souza 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samukawsouza/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-willians-de-souza-444a6a1b4//)
 
 ![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=samukawsouza&show_icons=true&theme=dracula)
