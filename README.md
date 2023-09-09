@@ -20,7 +20,7 @@
 <br/>
 
 <p>Tive meu primeiro contato com a programação aos meus 16 anos de idade e desde então procuro maximizar meu conhecimento para alcançar meu objetivo.
-Me joguei em cursos para estar sempre entendendo o mercado e daquilo que irá me capacitar para isso.</p>
+Me joguei em cursos para estar sempre com as ferramentas atuais do do mercado e me capacitar para isso.</p>
 
 <p>Iniciei minha faculdade de Análise de Desenvolvimento de Sistemas em Fev/2022 para obter e me encaixar melhor em vagas do mercado. Estou sempre buscando
 conhecimento para que possa agregar em times que irei me desenvolver e como pessoa para inovar este mundo no ramo da tecnologia.</p>
