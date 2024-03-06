@@ -3,7 +3,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-willians-de-souza-444a6a1b4//)
 
-![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelwsouza&show_icons=true&theme=dracula)
+# 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api?username=enzobsoares&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=samuelwsouza&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwsouza&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Tecnologias que uso em minha stack
 <!--
