@@ -16,11 +16,8 @@
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
 </div>
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,styledcomponents,tailwind,php,html,css,)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,styledcomponents,tailwind,php,mysql,html,css,)](https://skillicons.dev)
 <br/>
-<br/>
-
 <p>Tive meu primeiro contato com a programação aos meus 16 anos de idade e desde então procuro maximizar meu conhecimento para alcançar meu objetivo.
 Me joguei em cursos para estar sempre com as ferramentas atuais do do mercado e me capacitar para isso.</p>
 
