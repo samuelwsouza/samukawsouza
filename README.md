@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-willians-de-souza-444a6a1b4//)
 
-![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=samukawsouza&show_icons=true&theme=dracula)
+![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelwsouza&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso em minha stack
 
@@ -15,6 +15,8 @@
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,)](https://skillicons.dev)
 
 <br/>
 <br/>
